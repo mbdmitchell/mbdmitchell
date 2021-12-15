@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mbdmitchell
 - 👀 I’m learning web development for fun
-- 🌱 I’m currently learning Linux and how to use Git
+- 🌱 I’m currently learning how to use Git
 - 📫 Reach me at @duckDoesCode on Twitter 
