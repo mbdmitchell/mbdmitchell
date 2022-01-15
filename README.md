@@ -1,2 +1,1 @@
-- 👋  Hi, I’m @mbdmitchell. I’m learning web development and Python for fun.
-- 📫  Reach me at @duckDoesCode on Twitter 
+- 👋  Hi, I’m @mbdmitchell. Please contact me to view more recent projects
