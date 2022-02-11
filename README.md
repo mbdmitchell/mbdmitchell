@@ -1,1 +1,2 @@
-- 👋  Hi, I’m @mbdmitchell. Please contact me to view more recent projects
+- Hi, I’m @mbdmitchell. Please contact me to view more recent projects
+- Currently taking Havard's CS50x 
