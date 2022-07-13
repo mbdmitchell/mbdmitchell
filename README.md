@@ -1,2 +1,4 @@
-- Hi, I’m @mbdmitchell. Please contact me to view more recent projects
-- Currently taking Havard's CS50x 
+- 👋🏻 Hi, I’m @mbdmitchell. Please contact me to view more recent projects
+- 💻 Incoming MSc Computing student at Imperial College, London 
+
+- 🎵 Soon-to-be University of Cambridge graduate (MPhil Music)
