@@ -1,3 +1,3 @@
 - 👋🏻 Hi, I’m @mbdmitchell
-- 💻 MSc Computing student at Imperial College, London 
-- 🎵 University of Cambridge graduate (MPhil Music)
+- 💻 MSc Computing graduate from Imperial College, London 
+- 🎵 MPhil Music graduate from University of Cambridge
